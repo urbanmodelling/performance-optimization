@@ -11,22 +11,35 @@ It has a large user base across most areas of engineering and science, from both
 OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, 
 turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics.
 
-.. note:: 
-   Version 1912
+Getting started
+---------------
+
+* :doc:`About</Contents/about>`
+* :doc:`Installation</Contents/installation>`
+
+
+.. .. note:: 
+..    Version 1912
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
+   :caption: GETTING STARTED:
 
    Contents/about
    Contents/installation
-   Contents/software
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: References:
+   :caption: SOFTWARE:
+
+   Software/paraview
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: REFERENCES:
 
    References/ref1
  

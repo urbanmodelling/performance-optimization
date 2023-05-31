@@ -5,14 +5,11 @@ OpenFOAM
 ==================
 Abbreviation of ``Open Field Operation And Manipulation``.
 
-Contents
-========
+File Structure
+--------------
 
-Cnt1
-----
-
-Cnt2
-----
+Case Directory
+--------------
 
 Cnt3
-----
+~~~~
